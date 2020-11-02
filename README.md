@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aryanNaik123/Suicide-Analysis/main)
 ## This was completed as a part of a Course Project for the Jovian.ML Data Science Course
 Purpose: Analyse Rates of Suicide in different countries between 1985-2016
-## Packages 
+## Python Packages
 - Seaborn 
 - Matplotlib 
 -  Pandas 
